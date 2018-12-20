@@ -1,0 +1,8 @@
+{
+    "scripts" : "bin",
+    "configs" : "config",
+    "inputs" : "input",
+    "outputs" : "output",
+    "tests" : "test"
+
+}
